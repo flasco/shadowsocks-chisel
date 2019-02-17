@@ -45,6 +45,6 @@ $ chisel client --auth user:pass --keepalive 50s https://stormy-castle-77230.her
 随后使用任意一种ss，填写服务器信息就可以连上了。
 最上面有链接，下面是配置。
 
-服务器： 127.0.0.1:8388
-加密方式：rc4-md5
-密码：foobar
+服务器：127.0.0.1:8388  
+加密方式：rc4-md5  
+密码：foobar  
