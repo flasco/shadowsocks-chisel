@@ -5,7 +5,7 @@ shadowsocks-chisel
 
 ### necessary tool
 * [docker](https://docs.docker.com/install/)
-* chisel 
+* chisel, 注意 server 与 client 的版本要一致，目前都是 `1.3.1`
     * mac + linux cmd输入安装 `curl https://i.jpillora.com/chisel! | bash` 
     * windows需要去 [这里](https://github.com/jpillora/chisel/releases/tag/1.3.1) 下载exe  
 * 任意一种ss
